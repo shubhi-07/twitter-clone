@@ -1,0 +1,13 @@
+.sidebar__id{
+    display: flex;
+    padding: 20px;
+    margin: 5px;
+}
+.sidebar__idText{
+    margin: 5px;
+}
+.sidebar__idSpecial{
+    font-weight: 600;
+    font-size: 12px;
+    color: gray;
+}
